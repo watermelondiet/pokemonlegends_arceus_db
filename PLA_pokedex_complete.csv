@@ -1,0 +1,249 @@
+TIER,ID,Pokemon,Type_1,Type_2,Total,HP,Attack,Special_Attack,Defense,Special_Defense,Speed
+F,#001,Rowlet,Grass,Flying,320,68,55,50,55,50,42
+D,#002,Dartrix,Grass,Flying,420,78,75,70,75,70,52
+A,#003,Hisuian Decidueye,Grass,Fighting,530,88,112,95,80,95,60
+F,#004,Cyndaquil,Fire,,309,39,52,60,43,50,65
+D,#005,Quilava,Fire,,405,58,64,80,58,65,80
+A,#006,Hisuian Typhlosion,Fire,Ghost,534,73,84,119,78,85,95
+F,#007,Oshawott,Water,,308,55,55,63,45,45,45
+D,#008,Dewott,Water,,413,75,75,83,60,60,60
+A,#009,Hisuian Samurott,Water,Dark,528,90,108,100,80,65,85
+F,#010,Bidoof,Normal,,250,59,45,35,40,40,31
+D,#011,Bibarel,Normal,Water,410,79,85,55,60,60,71
+F,#012,Starly,Normal,Flying,245,40,55,30,30,30,60
+E,#013,Staravia,Normal,Flying,340,55,75,40,50,40,80
+C,#014,Staraptor,Normal,Flying,485,85,120,50,70,60,100
+F,#015,Shinx,Electric,,263,45,65,40,34,34,45
+E,#016,Luxio,Electric,,363,60,85,60,49,49,60
+B,#017,Luxray,Electric,,523,80,120,95,79,79,70
+F,#018,Wurmple,Bug,,195,45,45,20,35,30,20
+F,#019,Silcoon,Bug,,205,50,35,25,55,25,15
+D,#020,Beautifly,Bug,Flying,395,60,70,100,50,50,65
+F,#021,Cascoon,Bug,,205,50,35,25,55,25,15
+E,#022,Dustox,Bug,Poison,385,60,50,50,70,90,65
+D,#023,Ponyta,Fire,,410,50,85,65,55,65,90
+B,#024,Rapidash,Fire,,500,65,100,80,70,80,105
+F,#025,Eevee,Normal,,325,55,55,45,50,65,55
+B,#026,Vaporeon,Water,,525,130,65,110,60,95,65
+B,#027,Jolteon,Electric,,525,65,65,110,60,95,130
+B,#028,Flareon,Fire,,525,65,130,95,60,110,65
+B,#029,Espeon,Psychic,,525,65,65,130,60,95,110
+B,#030,Umbreon,Dark,,525,95,65,60,110,130,65
+B,#031,Leafeon,Grass,,525,65,110,60,130,65,95
+B,#032,Glaceon,Ice,,525,65,60,130,110,95,65
+B,#033,Sylveon,Fairy,,525,95,65,110,65,130,60
+F,#034,Zubat,Poison,Flying,245,40,45,30,35,40,55
+C,#035,Golbat,Poison,Flying,455,75,80,65,70,75,90
+A,#036,Crobat,Poison,Flying,535,85,90,70,80,80,130
+E,#037,Drifloon,Ghost,Flying,348,90,50,60,34,44,70
+C,#038,Drifblim,Ghost,Flying,498,150,80,90,44,54,80
+F,#039,Kricketot,Bug,,194,37,25,25,41,41,25
+E,#040,Kricketune,Bug,,384,77,85,55,51,51,65
+F,#041,Buizel,Water,,330,55,65,60,35,30,85
+C,#042,Floatzel,Water,,495,85,105,85,55,50,115
+F,#043,Burmy,Bug,,224,40,29,29,45,45,36
+D,#044,Wormadam,Bug,Grass,424,60,59,79,85,105,36
+D,#045,Mothim,Bug,Flying,424,70,94,94,50,50,66
+F,#046,Geodude,Rock,Ground,300,40,80,30,100,30,20
+E,#047,Graveler,Rock,Ground,390,55,95,45,115,45,35
+C,#048,Golem,Rock,Ground,495,80,120,55,130,65,45
+C,#049,Stantler,Normal,,465,73,95,85,62,65,85
+B,#050,Wyrdeer,Normal,Phsychic,525,103,105,105,72,75,65
+E,#051,Munchlax,Normal,,390,135,85,40,40,85,5
+A,#052,Snorlax,Normal,,540,160,110,65,65,110,30
+F,#053,Paras,Bug,Grass,285,35,70,45,55,55,25
+D,#054,Parasect,Bug,Grass,405,60,95,60,80,80,30
+F,#055,Pichu,Electric,,205,20,40,35,15,35,60
+F,#056,Pikachu,Electric,,320,35,55,50,40,50,90
+C,#057,Raichu,Electric,,485,60,90,90,55,80,110
+F,#058,Abra,Psychic,,310,25,20,105,15,55,90
+D,#059,Kadabra,Psychic,,400,40,35,120,30,70,105
+B,#060,Alakazam,Psychic,,500,55,50,135,45,95,120
+F,#061,Chimchar,Fire,,309,44,58,58,44,44,61
+D,#062,Monferno,Fire,Fighting,405,64,78,78,52,52,81
+A,#063,Infernape,Fire,Fighting,534,76,104,104,71,71,108
+E,#064,Buneary,Normal,,350,55,66,44,44,56,85
+C,#065,Lopunny,Normal,,480,65,76,54,84,96,105
+F,#066,Cherubi,Grass,,275,45,35,62,45,53,35
+C,#067,Cherrim,Grass,,450,70,60,87,70,78,85
+F,#068,Psyduck,Water,,320,50,52,65,48,50,55
+B,#069,Golduck,Water,,500,80,82,95,78,80,85
+F,#070,Combee,Bug,Flying,244,30,30,30,42,42,70
+C,#071,Vespiquen,Bug,Flying,474,70,80,80,102,102,40
+B,#072,Scyther,Bug,Flying,500,70,110,55,80,80,105
+B,#073,Scizor,Bug,Steel,500,70,130,55,100,80,65
+B,#074,Kleavor,Bug,Rock,505,70,135,45,95,75,85
+B,#075,Heracross,Bug,Fighting,500,80,125,40,75,95,85
+E,#078,Aipom,Normal,,360,55,70,40,55,55,85
+C,#079,Ambipom,Normal,,482,75,100,60,66,66,115
+F,#080,Magikarp,Water,,200,20,10,15,55,20,80
+A,#081,Gyarados,Water,Flying,540,95,125,60,79,100,81
+F,#082,Shellos,Water,,325,76,48,57,48,62,34
+C,#083,Gastrodon,Water,Ground,475,111,83,92,68,82,39
+D,#084,Hisuian Qwilfish,Dark,Poison,440,65,95,55,85,55,85
+B,#085,Overqwil,Dark,Poison,510,85,115,65,95,65,85
+F,#086,Happiny,Normal,,220,100,5,15,5,65,30
+C,#087,Chansey,Normal,,450,250,5,35,5,105,50
+A,#088,Blissey,Normal,,540,255,10,75,10,135,55
+F,#089,Budew,Grass,Poison,280,40,30,50,35,70,55
+D,#090,Roselia,Grass,Poison,400,50,60,100,45,80,65
+B,#091,Roserade,Grass,Poison,515,60,70,125,65,105,90
+C,#092,Carnivine,Grass,,454,74,100,90,72,72,46
+F,#093,Petilil,Grass,,280,45,35,70,50,50,30
+C,#094,Hisuian Lilligant,Grass,Fighting,480,70,105,50,75,75,105
+D,#095,Tangela,Grass,,435,65,55,100,115,40,60
+A,#096,Tangrowth,Grass,,535,100,100,110,125,50,50
+F,#097,Barboach,Water,Ground,288,50,48,46,43,41,60
+C,#098,Whiscash,Water,Ground,468,110,78,76,73,71,60
+F,#099,Croagunk,Poison,Fighting,300,48,61,61,40,40,50
+C,#100,Toxicroak,Poison,Fighting,490,83,106,86,65,65,85
+F,#101,Ralts,Psychic,Fairy,198,28,25,45,25,35,40
+F,#102,Kirlia,Psychic,Fairy,278,38,35,65,35,55,50
+B,#103,Gardevoir,Psychic,Fairy,518,68,65,125,65,115,80
+B,#104,Gallade,Psychic,Fighting,518,68,125,65,65,115,80
+E,#105,Yanma,Bug,Flying,390,65,65,75,45,45,95
+B,#106,Yanmega,Bug,Flying,515,86,76,116,86,56,95
+F,#107,Hippopotas,Ground,,330,68,72,38,78,42,32
+B,#108,Hippowdon,Ground,,525,108,112,68,118,72,47
+D,#109,Pachirisu,Electric,,405,60,45,45,70,90,95
+F,#110,Stunky,Poison,Dark,329,63,63,41,47,41,74
+C,#111,Skuntank,Poison,Dark,479,103,93,71,67,61,84
+F,#112,Teddiursa,Normal,,330,60,80,50,50,50,40
+B,#113,Ursaring,Normal,,500,90,130,75,75,75,55
+A,#114,Ursaluna,Normal,Ground,550,130,140,45,105,80,50
+F,#115,Goomy,Dragon,,300,45,50,55,35,75,40
+C,#116,Hisuian Sliggoo,Dragon,Steel,452,58,75,83,83,113,40
+S,#117,Hisuian Goodra,Dragon,Steel,600,80,100,110,100,150,60
+E,#118,Onix,Rock,Ground,385,35,45,30,160,45,70
+B,#119,Steelix,Steel,Ground,510,75,85,55,200,65,30
+E,#120,Rhyhorn,Ground,Rock,345,80,85,30,95,30,25
+C,#121,Rhydon,Ground,Rock,485,105,130,45,120,45,40
+A,#122,Rhyperior,Ground,Rock,535,115,140,55,130,55,40
+F,#123,Bonsly,Rock,,290,50,80,10,95,45,10
+D,#124,Sudowoodo,Rock,,410,70,100,30,115,65,30
+E,#125,Lickitung,Normal,,385,90,55,60,75,75,30
+B,#126,Lickilicky,Normal,,515,110,85,80,95,95,50
+F,#127,Togepi,Fairy,,245,35,20,40,65,65,20
+D,#128,Togetic,Fairy,Flying,405,55,40,80,85,105,40
+A,#129,Togekiss,Fairy,Flying,545,85,50,120,95,115,80
+F,#130,Turtwig,Grass,,318,55,68,45,64,55,31
+D,#131,Grotle,Grass,,405,75,89,55,85,65,36
+B,#132,Torterra,Grass,Ground,525,95,109,75,105,85,56
+D,#133,Porygon,Normal,,395,65,60,85,70,75,40
+B,#134,Porygon2,Normal,,515,85,80,105,90,95,60
+A,#135,Porygon-Z,Normal,,535,85,80,135,70,75,90
+F,#136,Gastly,Ghost,Poison,310,30,35,100,30,35,80
+D,#137,Haunter,Ghost,Poison,405,45,50,115,45,55,95
+B,#138,Gengar,Ghost,Poison,500,60,65,130,60,75,110
+C,#139,Spiritomb,Ghost,Dark,485,50,92,92,108,108,35
+D,#140,Murkrow,Dark,Flying,405,60,85,85,42,42,91
+B,#141,Honchkrow,Dark,Flying,505,100,125,105,52,52,71
+E,#142,Unown,Psychic,,336,48,72,72,48,48,48
+F,#143,Spheal,Ice,Water,290,70,40,55,50,50,25
+D,#144,Sealeo,Ice,Water,410,90,60,75,70,70,45
+A,#145,Walrein,Ice,Water,530,110,80,95,90,90,65
+F,#146,Remoraid,Water,,300,35,65,65,35,35,65
+C,#147,Octillery,Water,,480,75,105,105,75,75,45
+F,#148,Skorupi,Poison,Bug,330,40,50,30,90,55,65
+B,#149,Drapion,Poison,Dark,500,70,90,60,110,75,95
+E,#150,Hisuian Growlithe,Fire,Rock,350,60,75,65,45,50,55
+S,#151,Hisuian Arcanine,Fire,Rock,555,95,115,95,80,80,90
+F,#152,Glameow,Normal,,310,49,55,42,42,37,85
+C,#153,Purugly,Normal,,452,71,82,64,64,59,112
+F,#154,Machop,Fighting,,305,70,80,35,50,35,35
+D,#155,Machoke,Fighting,,405,80,100,50,70,60,45
+B,#156,Machamp,Fighting,,505,90,130,65,80,85,55
+D,#157,Chatot,Normal,Flying,411,76,65,92,45,42,91
+F,#158,Duskull,Ghost,,295,20,40,30,90,90,25
+C,#159,Dusclops,Ghost,,455,40,70,60,130,130,25
+B,#160,Dusknoir,Ghost,,525,45,100,65,135,135,45
+F,#161,Piplup,Water,,314,53,51,61,53,56,40
+D,#162,Prinplup,Water,,405,64,66,81,68,76,50
+A,#163,Empoleon,Water,Steel,530,84,86,111,88,101,60
+E,#164,Mantyke,Water,Flying,345,45,20,60,50,120,50
+C,#165,Mantine,Water,Flying,485,85,40,80,70,140,70
+C,#166,Hisuian Basculin,Water,Ghost,460,70,92,80,65,55,98
+A,#167,Basculegion,Water,Ghost,530,120,112,80,65,75,78
+F,#168,Vulpix,Fire,,299,38,41,50,40,65,65
+B,#169,Ninetales,Fire,,505,73,76,81,75,100,100
+F,#170,Tentacool,Water,Poison,335,40,40,50,35,100,70
+B,#171,Tentacruel,Water,Poison,515,80,70,80,65,120,100
+F,#172,Finneon,Water,,330,49,49,49,56,61,66
+C,#173,Lumineon,Water,,460,69,69,69,76,86,91
+E,#174,Magby,Fire,,365,45,75,70,37,55,83
+C,#175,Magmar,Fire,,495,65,95,100,57,85,93
+A,#176,Magmortar,Fire,,540,75,95,125,67,95,83
+F,#177,Magnemite,Electric,Steel,325,25,35,95,70,55,45
+C,#178,Magneton,Electric,Steel,465,50,60,120,95,70,70
+A,#179,Magnezone,Electric,Steel,535,70,70,130,115,90,60
+F,#180,Bronzor,Steel,Psychic,300,57,24,24,86,86,23
+B,#181,Bronzong,Steel,Psychic,500,67,89,79,116,116,33
+E,#182,Elekid,Electric,,360,45,63,65,37,55,95
+C,#183,Electabuzz,Electric,,490,65,83,95,57,85,105
+A,#184,Electivire,Electric,,540,75,123,95,67,85,95
+D,#185,Gligar,Ground,Flying,430,65,75,35,105,65,85
+B,#186,Gliscor,Ground,Flying,510,75,95,45,125,75,95
+F,#187,Gible,Dragon,Ground,300,58,70,40,45,45,42
+D,#188,Gabite,Dragon,Ground,410,68,90,50,65,55,82
+S,#189,Garchomp,Dragon,Ground,600,108,130,80,95,85,102
+E,#190,Nosepass,Rock,,375,30,45,45,135,90,30
+B,#191,Probopass,Rock,Steel,525,60,55,75,145,150,40
+F,#192,Hisuian Voltorb,Electric,Grass,330,40,30,55,50,55,100
+C,#193,Hisuian Electrode,Electric,Grass,490,60,50,80,70,80,150
+D,#194,Rotom,Electric,Ghost,440,50,50,95,77,77,91
+F,#195,Chingling,Psychic,,285,45,30,65,50,50,45
+C,#196,Chimecho,Psychic,,455,75,50,95,80,90,65
+D,#197,Misdreavus,Ghost,,435,60,60,85,60,85,85
+C,#198,Mismagius,Ghost,,495,60,60,105,60,105,105
+F,#199,Cleffa,Fairy,,218,50,25,45,28,55,15
+F,#200,Clefairy,Fairy,,323,70,45,60,48,65,35
+C,#201,Clefable,Fairy,,483,95,70,95,73,90,60
+D,#202,Hisuian Sneasel,Poison,Fighting,430,55,95,35,55,75,115
+B,#203,Sneasler,Poison,Fighting,510,80,130,40,60,80,120
+B,#204,Weavile,Dark,Ice,510,70,120,45,65,85,125
+F,#205,Snorunt,Ice,,300,50,50,50,50,50,50
+C,#206,Glalie,Ice,,480,80,80,80,80,80,80
+C,#207,Froslass,Ice,Ghost,480,70,80,80,70,70,110
+E,#208,Cranidos,Rock,,350,67,125,30,40,30,58
+C,#209,Rampardos,Rock,,495,97,165,65,60,50,58
+E,#210,Shieldon,Rock,Steel,350,30,42,42,118,88,30
+C,#211,Bastiodon,Rock,Steel,495,60,52,47,168,138,30
+F,#212,Swinub,Ice,Ground,250,50,50,30,40,30,50
+C,#213,Piloswine,Ice,Ground,450,100,100,60,80,60,50
+A,#214,Mamoswine,Ice,Ground,530,110,130,70,80,60,80
+F,#215,Bergmite,Ice,,304,55,69,32,85,35,28
+B,#216,Hisuian Avalugg,Ice,Rock,514,95,127,34,184,36,38
+F,#217,Snover,Grass,Ice,334,60,62,62,50,60,40
+C,#218,Abomasnow,Grass,Ice,494,90,92,92,75,85,60
+F,#219,Hisuian Zorua,Normal,Ghost,330,35,60,85,40,40,70
+B,#220,Hisuian Zoroark,Normal,Ghost,510,55,100,125,60,60,110
+E,#221,Rufflet,Normal,Flying,350,70,83,37,50,50,60
+B,#222,Hisuian Braviary,Psychic,Flying,510,110,83,112,70,70,65
+F,#223,Riolu,Fighting,,285,40,70,35,40,40,60
+B,#224,Lucario,Fighting,Steel,525,70,110,115,70,70,90
+S,#225,Uxie,Psychic,,580,75,75,75,130,130,95
+S,#226,Mesprit,Psychic,,580,80,105,105,105,105,80
+S,#227,Azelf,Psychic,,580,75,125,125,70,70,115
+S,#228,Heatran,Fire,Steel,600,91,90,130,106,106,77
+S,#229,Regigigas,Normal,,670,110,160,80,110,110,100
+S,#230,Cresselia,Psychic,,600,120,70,75,120,130,85
+S,#231,Thundurus,Electric,Flying,580,79,115,125,70,80,111
+S,#231,Thundurus Therian,Electric,Flying,580,79,105,145,70,80,101
+S,#232,Tornadus,,,580,79,115,125,70,80,111
+S,#232,Tornadus Therian,Flying,,580,79,100,110,80,90,121
+S,#233,Landorus Therian,Ground,Flying,600,89,145,105,90,80,91
+S,#233,Landorus,Ground,Flying,600,89,125,115,90,80,101
+S,#234,Enamorus,Fairy,Flying,580,74,115,135,70,80,106
+S,#234,Enamorus Therian,Fairy,Flying,580,74,115,135,110,100,46
+S,#235,Dialga,Steel,Dragon,680,100,120,150,120,100,90
+S,#235,Origin Dialga,Steel,Dragon,680,100,100,150,120,120,90
+S,#236,Palkia,Water,Dragon,680,90,120,150,100,120,100
+S,#236,Origin Palkia,Water,Dragon,680,90,100,150,100,120,120
+S,#237,Giratina Origin,Ghost,Dragon,680,150,120,120,100,100,90
+S,#237,Giratina Altered,Ghost,Dragon,680,150,100,100,120,120,90
+S,#238,Arceus,Normal,,720,120,120,120,120,120,120
+C,#239,Phione,Water,,480,80,80,80,80,80,80
+S,#240,Manaphy,Water,,600,100,100,100,100,100,100
+S,#241,Shaymin Sky,Grass,Flying,600,100,103,120,75,75,127
+S,#241,Shaymin Land,Grass,,600,100,100,100,100,100,100
+S,#242,Darkrai,Dark,,600,70,90,135,90,90,125
